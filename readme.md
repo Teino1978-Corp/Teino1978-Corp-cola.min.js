@@ -1,0 +1,1 @@
+A simple cola.js example using its "y" flowLayout option. The graph is a generated nearly hierarchical (but cyclical) schematic social network of Imperial Roman politics.
